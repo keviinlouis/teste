@@ -17,7 +17,7 @@ module.exports = {
   },
 
   pwa: {
-    name: 'Polvo',
+    name: 'Teste',
     assetsVersion: '0.4',
   },
 };

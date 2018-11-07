@@ -15,7 +15,7 @@ class WrongPasswordException extends \Exception
 {
     private $input;
 
-    public function __construct(string $input = 'senha', string $message = null, int $code = 400, Throwable $previous = null)
+    public function __construct(string $input = 'password', string $message = null, int $code = 400, Throwable $previous = null)
     {
         $this->input = $input;
 
