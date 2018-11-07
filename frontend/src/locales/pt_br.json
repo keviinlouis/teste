@@ -1,0 +1,64 @@
+{
+  "text": {
+    "resource_not_founded": "Este recurso estará disponivel em breve!.",
+    "equipe_polvo": "Kevin Louis",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "page": {
+    "employees": {
+      "title": "Funcionarios",
+      "employee_added_success": "Funcionario Adicionado com sucesso",
+      "table": {
+        "headers": {
+          "name": "Nome"
+        }
+      }
+    },
+    "employee": {
+      "title_new": "Criar Funcionario",
+      "title_edit": "Editar Funcionario"
+    }
+  },
+  "toast": {
+    "error_server": "Erro ao se conectar com o servidor",
+    "invalid_token": "Token Inválido"
+  },
+  "table": {
+    "no_results": "Sem Resultados"
+  },
+  "btn": {
+    "login": "Login",
+    "sign_up": "Cadastre-se",
+    "cancel": "Cancelar",
+    "send": "Enviar",
+    "save": "Salvar",
+    "active": "Ativar",
+    "block": "Bloquear",
+    "reprove": "Reprovar",
+    "aprove": "Aprovar",
+    "edit": "Editar",
+    "finish": "Finalizar"
+  },
+  "label": {
+    "email": "Email",
+    "password": "Senha",
+    "password_confirmation": "Confirmação Senha",
+    "search": "Procurar",
+    "status": "Status",
+    "name": "Nome",
+    "close": "Fechar"
+  },
+  "validations": {
+    "cep_not_founded": "CEP inválido"
+  },
+  "sidebar": {
+    "employees": "Funcionarios"
+  },
+  "status": {
+    "all": "Todos",
+    "finished": "Finalizado",
+    "created": "Criado",
+    "canceled": "Cancelado"
+  }
+}
